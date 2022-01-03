@@ -3,7 +3,7 @@ Ein Widget um Musik für die PixelBoy App hinzuzufügen
 
 
 # Aussehen:
-![image](https://user-images.githubusercontent.com/87471423/147966895-5f645126-e7ea-4e0b-a807-f83b71a28ee3.png)
+![image](https://user-images.githubusercontent.com/87471423/147967392-a6a2dd88-d3bd-4f28-a270-b914834c3434.png)
 
 
 # Funktionen:
